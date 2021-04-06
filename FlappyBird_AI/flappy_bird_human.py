@@ -1,3 +1,6 @@
+#this is the regular version of the game Flappy Bird
+#press space to jump, p to pause and s to unpause
+
 import pygame
 import time
 import os
